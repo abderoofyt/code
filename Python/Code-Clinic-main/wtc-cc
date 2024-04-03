@@ -1,0 +1,122 @@
+#!/usr/bin/env python3
+from personalCalendar import calendar
+from codeClinicCalendar import calendar as cc_calendar
+from user import user
+from user import credentials
+from Login_Authentication import create_user
+from Login_Authentication import user_authentication
+import sys
+import patient_booking
+import update_event
+import patient_cancel
+import volunteer_booking
+import volunteer_cancel
+
+if __name__ == "__main__":
+    if len(sys.argv) == 2:
+        if sys.argv[1].lower() == "help":
+            print("""Use these commands:
+
+CREATE  - Creates a user file.
+
+----------PATIENT----------
+
+BOOK    - Choose one of the given time slots available and book it.
+CANCEL  - Cancel the booking.
+
+----------VOLUNTEER----------
+
+BOOK    - Create time slots for patients.
+CANCEL  - Cancel the time slot.
+""")
+
+        elif sys.argv[1].lower() == "book":
+            p_or_v_valid = False
+            while not p_or_v_valid:
+                p_or_v = input("Are you a patient or volunteer? ")
+                if (p_or_v.lower() == "patient") or (p_or_v.lower() == "volunteer"):
+                    p_or_v_valid = True
+                    continue
+            if p_or_v == "patient":
+                username, check = user_authentication.start()
+                if check == True:
+                    num_list, id_dict = patient_booking.slot_allocation()
+                    user_ans = patient_booking.book_command(num_list)
+                    chosen_id, id_dict = patient_booking.confirm_book(user_ans, id_dict)
+                    update_event.update_event(chosen_id, username)
+            if p_or_v == "volunteer":
+                username, check = user_authentication.start()
+                if check == True:
+                    volunteer_booking.create_command(username)
+
+        elif sys.argv[1].lower() == "cancel":
+            p_or_v_valid = False
+            while not p_or_v_valid:
+                p_or_v = input("Are you a patient or volunteer? ")
+                if (p_or_v.lower() == "patient") or (p_or_v.lower() == "volunteer"):
+                    p_or_v_valid = True
+                    continue
+            if p_or_v == "patient":
+                username, check = user_authentication.start()
+                if check == True:
+                    num_list, id_dict = patient_booking.slot_allocation()
+                    user_sel = patient_cancel.cancel_select(num_list)
+                    cancel_id = patient_cancel.cancel_confirm(user_sel)
+                    if not patient_cancel.check_attendees(cancel_id, username):
+                        patient_cancel.cancel_book(cancel_id)
+                
+            if p_or_v == "volunteer":
+                username, check = user_authentication.start()
+                if check == True:
+                    num_list, id_dict = volunteer_cancel.slot_allocation_v()
+                    user_sel = volunteer_cancel.user_choose(num_list)
+                    id_returned = volunteer_cancel.find_event(user_sel)
+                    volunteer_cancel.delete_slot(num_list)
+
+
+
+            
+        elif sys.argv[1].lower() == "create":
+            create_user.start()
+
+
+
+        else:
+            print("""Use these commands:
+
+CREATE  - Creates a user file.
+
+----------PATIENT----------
+
+BOOK    - Choose one of the given time slots available and book it.
+CANCEL  - Cancel the booking.
+
+----------VOLUNTEER----------
+
+BOOK    - Create time slots for patients.
+CANCEL  - Cancel the time slot.
+""")
+            
+
+        # username = credentials.main()
+        # service_cc = cc_calendar.connect()
+        # service = calendar.connect(username)
+        # #user_type = user.specify_user()
+        # cc_calendar.print_calendar(service_cc)
+        # #calendar.print_calendar(service)
+    else:
+        print("""Use these commands:
+
+CREATE  - Creates a user file.
+
+----------PATIENT----------
+
+BOOK    - Choose one of the given time slots available and book it.
+CANCEL  - Cancel the booking.
+
+----------VOLUNTEER----------
+
+BOOK    - Create time slots for patients.
+CANCEL  - Cancel the time slot.
+""")
+

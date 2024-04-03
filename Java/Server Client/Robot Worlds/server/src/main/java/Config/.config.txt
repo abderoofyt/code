@@ -1,0 +1,1 @@
+{"boundary":{"bottomRightPosition":[200,-200],"topLeftPosition":[-200,200]},"boundaryWidth":400,"boundaryHeight":400,"visibility":10,"shieldRepairTime":10,"mineSetTime":10,"weaponReloadTime":10,"maxShieldStrength":10}

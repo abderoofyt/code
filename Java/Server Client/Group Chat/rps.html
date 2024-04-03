@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Group Chat</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/spectrum/1.8.0/spectrum.min.css">
+</head>
+<body>
+    <div id="navbar" onclick="toggleCustomizePanel()"><div id="burgerIcon"></div>Customize Chat</div>
+    <div id="customizePanel">
+        <div class="customize-options">
+            <label for="backgroundColor">Background Color:</label>
+            <input type="text" id="backgroundColor" class="colorpicker" value="#f9f9f9">
+        </div>
+        <div class="customize-options">
+            <label for="messageColor">Message Color:</label>
+            <input type="text" id="messageColor" class="colorpicker" value="#333">
+        </div>
+        <div class="customize-options">
+            <label for="buttonColor">Button Color:</label>
+            <input type="text" id="buttonColor" class="colorpicker" value="#4CAF50">
+        </div>
+        <div class="customize-options">
+            <label for="borderColor">Border Color:</label>
+            <input type="text" id="borderColor" class="colorpicker" value="#ccc">
+        </div>
+        <div class="customize-options">
+            <label for="borderRadius">Border Radius:</label>
+            <input type="range" id="borderRadius" min="0" max="20" step="1" value="8">
+        </div>
+    </div>
+    <div id="chatContainer">
+        <h1>WebSocket Group Chat</h1>
+        <div style="text-align: center;">
+            <div id="statusIndicator"></div>
+            <div>Connected users: <span id="userCount">0</span></div>
+        </div>
+        <div id="messages"></div>
+        <input type="text" id="nameInput" placeholder="Enter your name...">
+        <input type="text" id="messageInput" placeholder="Type a message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script src="web.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/spectrum/1.8.1/spectrum.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.colorpicker').spectrum({
+                preferredFormat: "hex",
+                showPalette: true,
+                palette: [
+                    ["#f9f9f9", "#fff", "#000", "#333", "#4CAF50", "#ccc", "#45a049", "red"]
+                ],
+                change: function(color) {
+                    applyCustomizations();
+                }
+            });
+        
+            $('#borderRadius').on('input', function() {
+                applyCustomizations();
+            });
+        });
+    </script>
+</body>
+</html>

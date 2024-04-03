@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/0120-robot-worlds.iml" filepath="$PROJECT_DIR$/.idea/0120-robot-worlds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/Robot.iml" filepath="$PROJECT_DIR$/client/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/World.iml" filepath="$PROJECT_DIR$/server/World.iml" />
+    </modules>
+  </component>
+</project>
