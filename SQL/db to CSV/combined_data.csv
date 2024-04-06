@@ -1,0 +1,344 @@
+id,brand,name,alias,age,gender,abilities,weaknesses,team_affiliation
+1,Marvel,Green Goblin,Norman Osborn,Male,"Superhuman strength, intelligence, glider","Hatred towards Spider-Man, insanity"
+2,Marvel,Venom,Eddie Brock,Male,"Symbiote suit grants superhuman strength, agility, and durability","Hatred towards Spider-Man, symbiote weaknesses"
+3,Marvel,Loki,Loki Laufeyson,Male,"Illusions, sorcery, shapeshifting, superhuman abilities","Desire for power, jealousy towards Thor"
+4,Marvel,Thanos,Thanos,Male,"Superhuman strength, durability, energy manipulation","Obsession with Death, quest for the Infinity Stones"
+5,Marvel,Magneto,Erik Lehnsherr,Male,"Magnetism manipulation, control over metal objects","Hatred towards humans, desire for mutant supremacy"
+6,Marvel,Doctor Octopus,Otto Octavius,Male,"Mechanical tentacles, genius-level intellect","Obsession with proving superiority, criminal ambition"
+7,Marvel,Red Skull,Johann Schmidt,Male,"Peak human strength, strategic genius, skilled combatant","Nazi ideology, obsession with power, hatred towards Captain America"
+8,Marvel,Ultron,Ultron,N/A,"Artificial intelligence, superhuman strength, energy manipulation","Desire to exterminate humanity, superiority complex"
+9,Marvel,Kingpin,Wilson Fisk,Male,"Master strategist, peak human strength, extensive criminal empire","Control freak, desire for power and control"
+10,Marvel,Apocalypse,En Sabah Nur,Male,"Superhuman strength, invulnerability, molecular manipulation","Desire for survival of the fittest, destruction, evolution"
+11,Marvel,Mystique,Raven Darkholme,Female,"Shapeshifting, martial arts, deception","Lack of moral compass, loyalty to Magneto"
+12,Marvel,Juggernaut,Cain Marko,Male,"Unstoppable momentum, superhuman strength, invulnerability","Obsession with destruction, hatred towards Xavier and the X-Men"
+13,Marvel,Galactus,Galactus,Male,"Cosmic entity, immense cosmic power, energy manipulation","Consumes planets for sustenance, indifferent to life"
+14,Marvel,Venom (Symbiote),Symbiote,N/A,"Symbiote suit grants superhuman strength, agility, and durability","Desire for a host, aggressive tendencies"
+15,Marvel,Carnage,Cletus Kasady,Male,"Symbiote suit grants superhuman strength, agility, and durability","Psychopathic tendencies, desire for chaos and destruction"
+16,Marvel,Mephisto,Mephistopheles,Male,"Demon, reality manipulation, manipulation of souls","Desire for corrupting souls, gaining power"
+17,Marvel,Doctor Doom,Victor von Doom,Male,"Genius-level intellect, mastery of sorcery and science, armored suit","Desire for world domination, rivalry with Reed Richards"
+18,Marvel,Taskmaster,Tony Masters,Male,"Photographic reflexes, master martial artist, skilled marksman","Mercenary, lack of empathy, amoral"
+19,Marvel,Sabretooth,Victor Creed,Male,"Superhuman senses, strength, agility, healing factor","Bloodlust, sadistic tendencies, rivalry with Wolverine"
+20,Marvel,The Vulture,Adrian Toomes,Male,"Powered flight, enhanced strength, aging reversal technology","Obsession with youth, revenge, hatred towards Spider-Man"
+21,Marvel,Bullseye,Lester Poindexter,Male,"Expert marksman, perfect aim, skilled combatant","Psychopathic tendencies, obsession with perfection, hired killer"
+22,Marvel,The Mandarin,Unknown,Male,"Mastery of martial arts, ten power rings","Desire for power, world domination, revenge against Iron Man"
+23,Marvel,Hela,Hela,Female,"Superhuman strength, control over death, sorcery","Desire for power, control over Hel, revenge against Thor"
+24,Marvel,Baron Zemo,Helmut Zemo,Male,"Master strategist, skilled combatant, leadership abilities","Hatred towards Captain America, desire for revenge and power"
+25,Marvel,Abomination,Emil Blonsky,Male,"Superhuman strength, durability, regeneration","Rage, loss of humanity, rivalry with Hulk"
+26,Marvel,Mr. Sinister,Nathaniel Essex,Male,"Genius-level intellect, genetic manipulation, immortality","Obsession with evolution, manipulation, desire for power"
+27,Marvel,Hobgoblin,Various,Male,"Superhuman strength, intelligence, glider, pumpkin bombs","Hatred towards Spider-Man, insanity, rivalry with Green Goblin"
+28,Marvel,The Leader,Samuel Sterns,Male,"Genius-level intellect, superhuman intelligence, psionic powers","Desire for power, control, rivalry with Hulk"
+29,Marvel,Enchantress,Amora,Female,"Sorcery, manipulation, seduction","Desire for power, control over men, rivalry with Thor"
+30,Marvel,Annihilus,Annihilus,Male,"Superhuman strength, energy blasts, control over Negative Zone","Desire for conquest, destruction, control over Annihilation Wave"
+31,Marvel,Kraven the Hunter,Sergei Kravinoff,Male,"Peak human strength, expert hunter, skilled combatant","Obsession with hunting, defeating Spider-Man, proving superiority"
+32,DC,Joker,Unknown,Male,"Master of chaos, criminal genius","Psychopathy, obsession with Batman"
+33,DC,Lex Luthor,Unknown,Male,"Genius-level intellect, business magnate","Obsession with defeating Superman, desire for power"
+34,DC,Harley Quinn,Harleen Quinzel,Female,"Skilled gymnast, expert psychologist","Obsession with Joker, mental instability"
+35,DC,Darkseid,Uxas,Male,"Superhuman strength, omega beams, immortality","Desire for universal domination, destruction"
+36,DC,Deathstroke,Slade Wilson,Male,"Enhanced strength, agility, and reflexes, expert martial artist","Mercenary, tactical genius"
+37,DC,Catwoman,Selina Kyle,Female,"Acrobatics, stealth, skilled hand-to-hand combatant","Cat burglar, complicated relationship with Batman"
+38,DC,Riddler,Edward Nygma,Male,"Genius-level intellect, expert in puzzles and riddles","Obsession with riddles, compulsion to leave clues"
+39,DC,Two-Face,Harvey Dent,Male,"Skilled strategist, dual personality","Driven by coin flips, obsession with duality"
+40,DC,Penguin,Oswald Cobblepot,Male,"Criminal mastermind, skilled strategist","Obsession with birds, refined tastes"
+41,DC,Ra's al Ghul,Unknown,Male,"Immortality, expert martial artist","Desire for global balance, eco-terrorism"
+42,DC,Black Adam,Teth-Adam,Male,"Superhuman strength, speed, and stamina","Desire for power, vengeance against Shazam"
+43,DC,Sinestro,Thaal Sinestro,Male,Ability to generate and control yellow power ring constructs,"Desire for control, manipulation"
+44,DC,Poison Ivy,Pamela Isley,Female,"Control over plants, toxins, and pheromones","Environmental extremism, obsession with plants"
+45,DC,Scarecrow,Jonathan Crane,Male,"Expert in fear toxins, skilled psychologist","Desire to spread fear, obsession with fear"
+46,DC,Bane,Unknown,Male,"Genius-level intellect, peak physical condition","Venom dependency, obsession with Batman"
+47,DC,Mr. Freeze,Victor Fries,Male,"Cryogenic technology, genius-level intellect","Desire to cure wife, obsession with ice"
+48,DC,Black Manta,David Hyde,Male,"Enhanced strength, underwater survival, advanced technology","Obsession with Aquaman, desire for revenge"
+49,DC,Brainiac,Unknown,Male,"Advanced intellect, vast knowledge, cybernetic enhancements","Desire for knowledge, collecting civilizations"
+50,DC,Mongul,Unknown,Male,"Superhuman strength, invulnerability, energy projection","Desire for power, control over Warworld"
+51,DC,Cheetah,Barbara Ann Minerva,Female,"Enhanced speed, strength, and agility","Obsession with power, jealousy towards Wonder Woman"
+52,DC,Gorilla Grodd,Unknown,Male,"Superhuman strength, telepathy, genius-level intellect","Desire for power, world domination"
+53,DC,Man-Bat,Kirk Langstrom,Male,"Human-bat hybrid, flight, echolocation","Obsession with power, loss of humanity"
+54,DC,Livewire,Leslie Willis,Female,"Electrokinesis, electrical absorption, flight","Obsession with power, desire for revenge"
+55,DC,Vandal Savage,Unknown,Male,"Immortality, enhanced strength, genius-level intellect","Desire for power, survival of the fittest"
+56,DC,Killer Croc,Waylon Jones,Male,"Enhanced strength, reptilian physiology","Social rejection, identity issues"
+57,DC,Solomon Grundy,Cyrus Gold,Male,"Superhuman strength, endurance, regeneration","Undead, lack of intelligence"
+58,DC,Atrocitus,Unknown,Male,"Red power ring, blood magic","Desire for vengeance, rage against Guardians of the Universe"
+59,DC,Captain Cold,Leonard Snart,Male,"Cryogenic weaponry, skilled tactician","Obsession with cold, desire for revenge on Flash"
+60,DC,Circe,Unknown,Female,"Sorcery, immortality, shapeshifting","Obsession with power, hatred towards Wonder Woman"
+61,DC,Talia al Ghul,Unknown,Female,"Master martial artist, expert strategist","Obsession with Batman, loyalty to Ra’s al Ghul"
+62,DC,Killer Frost,Caitlin Snow,Female,"Cryokinesis, ice manipulation","Obsession with cold, desire for power"
+63,DC,Metallo,John Corben,Male,"Cybernetic enhancements, Kryptonite power source","Obsession with Superman, desire for revenge"
+64,DC,Parasite,Unknown,Male,"Energy absorption, superhuman strength","Obsession with power, desire to drain others"
+65,DC,Black Hand,William Hand,Male,"Death energy manipulation, necromancy","Obsession with death, desire for destruction"
+66,DC,Giganta,Unknown,Female,"Growth manipulation, superhuman strength","Desire for power, rivalry with Wonder Woman"
+67,DC,Eclipso,Bruce Gordon,Male,"Possession, sorcery, manipulation","Obsession with power, desire for destruction"
+68,DC,Black Mask,Roman Sionis,Male,"Criminal mastermind, skilled combatant","Obsession with masks, desire for control"
+69,DC,King Shark,Nanaue,Male,"Superhuman strength, durability, enhanced senses","Cannibalistic tendencies, brute force"
+70,DC,Cheetah,Barbara Minerva,Female,"Enhanced speed, strength, agility, and senses","Obsession with power, jealousy towards Wonder Woman"
+71,DC,Kite Man,Charles Brown,Male,"Mastery of kites, skilled pilot","Low self-esteem, desire for recognition"
+72,DC,Mister Mxyzptlk,Unknown,Male,"Reality manipulation, reality warping","Trickster nature, desire for amusement"
+73,DC,Harvey Two-Face,Harvey Dent,Male,"Skilled strategist, dual personality","Driven by coin flips, obsession with duality"
+74,DC,Prometheus,Unknown,Male,"Genius-level intellect, skilled martial artist","Obsession with vengeance, desire to destroy justice"
+75,DC,Toyman,Winslow Schott,Male,"Mechanical expertise, toy-themed weapons","Obsession with toys, desire for chaos"
+76,Marvel,Green Goblin,Norman Osborn,Male,"Superhuman strength, intelligence, glider","Hatred towards Spider-Man, insanity"
+77,Marvel,Venom,Eddie Brock,Male,"Symbiote suit grants superhuman strength, agility, and durability","Hatred towards Spider-Man, symbiote weaknesses"
+78,Marvel,Loki,Loki Laufeyson,Male,"Illusions, sorcery, shapeshifting, superhuman abilities","Desire for power, jealousy towards Thor"
+79,Marvel,Thanos,Thanos,Male,"Superhuman strength, durability, energy manipulation","Obsession with Death, quest for the Infinity Stones"
+80,Marvel,Magneto,Erik Lehnsherr,Male,"Magnetism manipulation, control over metal objects","Hatred towards humans, desire for mutant supremacy"
+81,Marvel,Doctor Octopus,Otto Octavius,Male,"Mechanical tentacles, genius-level intellect","Obsession with proving superiority, criminal ambition"
+82,Marvel,Red Skull,Johann Schmidt,Male,"Peak human strength, strategic genius, skilled combatant","Nazi ideology, obsession with power, hatred towards Captain America"
+83,Marvel,Ultron,Ultron,N/A,"Artificial intelligence, superhuman strength, energy manipulation","Desire to exterminate humanity, superiority complex"
+84,Marvel,Kingpin,Wilson Fisk,Male,"Master strategist, peak human strength, extensive criminal empire","Control freak, desire for power and control"
+85,Marvel,Apocalypse,En Sabah Nur,Male,"Superhuman strength, invulnerability, molecular manipulation","Desire for survival of the fittest, destruction, evolution"
+86,Marvel,Mystique,Raven Darkholme,Female,"Shapeshifting, martial arts, deception","Lack of moral compass, loyalty to Magneto"
+87,Marvel,Juggernaut,Cain Marko,Male,"Unstoppable momentum, superhuman strength, invulnerability","Obsession with destruction, hatred towards Xavier and the X-Men"
+88,Marvel,Galactus,Galactus,Male,"Cosmic entity, immense cosmic power, energy manipulation","Consumes planets for sustenance, indifferent to life"
+89,Marvel,Venom (Symbiote),Symbiote,N/A,"Symbiote suit grants superhuman strength, agility, and durability","Desire for a host, aggressive tendencies"
+90,Marvel,Carnage,Cletus Kasady,Male,"Symbiote suit grants superhuman strength, agility, and durability","Psychopathic tendencies, desire for chaos and destruction"
+91,Marvel,Mephisto,Mephistopheles,Male,"Demon, reality manipulation, manipulation of souls","Desire for corrupting souls, gaining power"
+92,Marvel,Doctor Doom,Victor von Doom,Male,"Genius-level intellect, mastery of sorcery and science, armored suit","Desire for world domination, rivalry with Reed Richards"
+93,Marvel,Taskmaster,Tony Masters,Male,"Photographic reflexes, master martial artist, skilled marksman","Mercenary, lack of empathy, amoral"
+94,Marvel,Sabretooth,Victor Creed,Male,"Superhuman senses, strength, agility, healing factor","Bloodlust, sadistic tendencies, rivalry with Wolverine"
+95,Marvel,The Vulture,Adrian Toomes,Male,"Powered flight, enhanced strength, aging reversal technology","Obsession with youth, revenge, hatred towards Spider-Man"
+96,Marvel,Bullseye,Lester Poindexter,Male,"Expert marksman, perfect aim, skilled combatant","Psychopathic tendencies, obsession with perfection, hired killer"
+97,Marvel,The Mandarin,Unknown,Male,"Mastery of martial arts, ten power rings","Desire for power, world domination, revenge against Iron Man"
+98,Marvel,Hela,Hela,Female,"Superhuman strength, control over death, sorcery","Desire for power, control over Hel, revenge against Thor"
+99,Marvel,Baron Zemo,Helmut Zemo,Male,"Master strategist, skilled combatant, leadership abilities","Hatred towards Captain America, desire for revenge and power"
+100,Marvel,Abomination,Emil Blonsky,Male,"Superhuman strength, durability, regeneration","Rage, loss of humanity, rivalry with Hulk"
+101,Marvel,Mr. Sinister,Nathaniel Essex,Male,"Genius-level intellect, genetic manipulation, immortality","Obsession with evolution, manipulation, desire for power"
+102,Marvel,Hobgoblin,Various,Male,"Superhuman strength, intelligence, glider, pumpkin bombs","Hatred towards Spider-Man, insanity, rivalry with Green Goblin"
+103,Marvel,The Leader,Samuel Sterns,Male,"Genius-level intellect, superhuman intelligence, psionic powers","Desire for power, control, rivalry with Hulk"
+104,Marvel,Enchantress,Amora,Female,"Sorcery, manipulation, seduction","Desire for power, control over men, rivalry with Thor"
+105,Marvel,Annihilus,Annihilus,Male,"Superhuman strength, energy blasts, control over Negative Zone","Desire for conquest, destruction, control over Annihilation Wave"
+106,Marvel,Kraven the Hunter,Sergei Kravinoff,Male,"Peak human strength, expert hunter, skilled combatant","Obsession with hunting, defeating Spider-Man, proving superiority"
+107,DC,Joker,Unknown,Male,"Master of chaos, criminal genius","Psychopathy, obsession with Batman"
+108,DC,Lex Luthor,Unknown,Male,"Genius-level intellect, business magnate","Obsession with defeating Superman, desire for power"
+109,DC,Harley Quinn,Harleen Quinzel,Female,"Skilled gymnast, expert psychologist","Obsession with Joker, mental instability"
+110,DC,Darkseid,Uxas,Male,"Superhuman strength, omega beams, immortality","Desire for universal domination, destruction"
+111,DC,Deathstroke,Slade Wilson,Male,"Enhanced strength, agility, and reflexes, expert martial artist","Mercenary, tactical genius"
+112,DC,Catwoman,Selina Kyle,Female,"Acrobatics, stealth, skilled hand-to-hand combatant","Cat burglar, complicated relationship with Batman"
+113,DC,Riddler,Edward Nygma,Male,"Genius-level intellect, expert in puzzles and riddles","Obsession with riddles, compulsion to leave clues"
+114,DC,Two-Face,Harvey Dent,Male,"Skilled strategist, dual personality","Driven by coin flips, obsession with duality"
+115,DC,Penguin,Oswald Cobblepot,Male,"Criminal mastermind, skilled strategist","Obsession with birds, refined tastes"
+116,DC,Ra's al Ghul,Unknown,Male,"Immortality, expert martial artist","Desire for global balance, eco-terrorism"
+117,DC,Black Adam,Teth-Adam,Male,"Superhuman strength, speed, and stamina","Desire for power, vengeance against Shazam"
+118,DC,Sinestro,Thaal Sinestro,Male,Ability to generate and control yellow power ring constructs,"Desire for control, manipulation"
+119,DC,Poison Ivy,Pamela Isley,Female,"Control over plants, toxins, and pheromones","Environmental extremism, obsession with plants"
+120,DC,Scarecrow,Jonathan Crane,Male,"Expert in fear toxins, skilled psychologist","Desire to spread fear, obsession with fear"
+121,DC,Bane,Unknown,Male,"Genius-level intellect, peak physical condition","Venom dependency, obsession with Batman"
+122,DC,Mr. Freeze,Victor Fries,Male,"Cryogenic technology, genius-level intellect","Desire to cure wife, obsession with ice"
+123,DC,Black Manta,David Hyde,Male,"Enhanced strength, underwater survival, advanced technology","Obsession with Aquaman, desire for revenge"
+124,DC,Brainiac,Unknown,Male,"Advanced intellect, vast knowledge, cybernetic enhancements","Desire for knowledge, collecting civilizations"
+125,DC,Mongul,Unknown,Male,"Superhuman strength, invulnerability, energy projection","Desire for power, control over Warworld"
+126,DC,Cheetah,Barbara Ann Minerva,Female,"Enhanced speed, strength, and agility","Obsession with power, jealousy towards Wonder Woman"
+127,DC,Gorilla Grodd,Unknown,Male,"Superhuman strength, telepathy, genius-level intellect","Desire for power, world domination"
+128,DC,Man-Bat,Kirk Langstrom,Male,"Human-bat hybrid, flight, echolocation","Obsession with power, loss of humanity"
+129,DC,Livewire,Leslie Willis,Female,"Electrokinesis, electrical absorption, flight","Obsession with power, desire for revenge"
+130,DC,Vandal Savage,Unknown,Male,"Immortality, enhanced strength, genius-level intellect","Desire for power, survival of the fittest"
+131,DC,Killer Croc,Waylon Jones,Male,"Enhanced strength, reptilian physiology","Social rejection, identity issues"
+132,DC,Solomon Grundy,Cyrus Gold,Male,"Superhuman strength, endurance, regeneration","Undead, lack of intelligence"
+133,DC,Atrocitus,Unknown,Male,"Red power ring, blood magic","Desire for vengeance, rage against Guardians of the Universe"
+134,DC,Captain Cold,Leonard Snart,Male,"Cryogenic weaponry, skilled tactician","Obsession with cold, desire for revenge on Flash"
+135,DC,Circe,Unknown,Female,"Sorcery, immortality, shapeshifting","Obsession with power, hatred towards Wonder Woman"
+136,DC,Talia al Ghul,Unknown,Female,"Master martial artist, expert strategist","Obsession with Batman, loyalty to Ra’s al Ghul"
+137,DC,Killer Frost,Caitlin Snow,Female,"Cryokinesis, ice manipulation","Obsession with cold, desire for power"
+138,DC,Metallo,John Corben,Male,"Cybernetic enhancements, Kryptonite power source","Obsession with Superman, desire for revenge"
+139,DC,Parasite,Unknown,Male,"Energy absorption, superhuman strength","Obsession with power, desire to drain others"
+140,DC,Black Hand,William Hand,Male,"Death energy manipulation, necromancy","Obsession with death, desire for destruction"
+141,DC,Giganta,Unknown,Female,"Growth manipulation, superhuman strength","Desire for power, rivalry with Wonder Woman"
+142,DC,Eclipso,Bruce Gordon,Male,"Possession, sorcery, manipulation","Obsession with power, desire for destruction"
+143,DC,Black Mask,Roman Sionis,Male,"Criminal mastermind, skilled combatant","Obsession with masks, desire for control"
+144,DC,King Shark,Nanaue,Male,"Superhuman strength, durability, enhanced senses","Cannibalistic tendencies, brute force"
+145,DC,Cheetah,Barbara Minerva,Female,"Enhanced speed, strength, agility, and senses","Obsession with power, jealousy towards Wonder Woman"
+146,DC,Kite Man,Charles Brown,Male,"Mastery of kites, skilled pilot","Low self-esteem, desire for recognition"
+147,DC,Mister Mxyzptlk,Unknown,Male,"Reality manipulation, reality warping","Trickster nature, desire for amusement"
+148,DC,Harvey Two-Face,Harvey Dent,Male,"Skilled strategist, dual personality","Driven by coin flips, obsession with duality"
+149,DC,Prometheus,Unknown,Male,"Genius-level intellect, skilled martial artist","Obsession with vengeance, desire to destroy justice"
+150,DC,Toyman,Winslow Schott,Male,"Mechanical expertise, toy-themed weapons","Obsession with toys, desire for chaos"
+1,Marvel,Spider-Man,Peter Parker,18,Male,"Wall-crawling, enhanced strength, spider-sense","Green Goblin, Venom, personal responsibility",Avengers
+2,Marvel,Iron Man,Tony Stark,35,Male,"Genius-level intellect, powered armor suit","Alcoholism, arrogance, shrapnel near heart",Avengers
+3,Marvel,Captain America,Steve Rogers,100,Male,"Peak human strength, master martial artist",Vulnerability to mental manipulation,Avengers
+4,Marvel,Thor,Thor Odinson,Ageless,Male,"Superhuman strength, lightning manipulation, Mjolnir","Arrogance, dependency on Mjolnir",Avengers
+5,Marvel,Black Widow,Natasha Romanoff,35,Female,"Expert spy, martial artist, various weapons","Past traumas, guilt",Avengers
+6,Marvel,Hulk,Bruce Banner,40,Male,"Superhuman strength, durability, gamma radiation","Rage, control issues",Avengers
+7,Marvel,Wolverine,Logan,Ageless,Male,"Regenerative healing factor, adamantium claws, enhanced senses","Memory loss, animalistic nature",X-Men
+8,Marvel,Storm,Ororo Munroe,35,Female,"Weather manipulation, flight, leadership skills","Emotional instability, claustrophobia",X-Men
+9,Marvel,Professor X,Charles Xavier,65,Male,"Telepathy, genius-level intellect, leadership skills","Paralysis, guilt over failures",X-Men
+10,Marvel,Cyclops,Scott Summers,35,Male,"Optic blasts, tactical skills, leadership abilities","Struggles with leadership, emotional detachment",X-Men
+11,Marvel,Jean Grey,Jean Grey,35,Female,"Telekinesis, telepathy, Phoenix Force","Struggles with dark side, loss of control",X-Men
+12,Marvel,Beast,Hank McCoy,40,Male,"Superhuman strength, agility, genius intellect","Physical appearance, difficulty controlling transformations",X-Men
+13,Marvel,Rogue,Anna Marie,30,Female,"Power absorption, flight, superhuman strength","Fear of hurting others, isolation",X-Men
+14,Marvel,Gambit,Remy LeBeau,35,Male,"Kinetic energy manipulation, skilled thief, agility","Guilt over past actions, shady past",X-Men
+15,Marvel,Nightcrawler,Kurt Wagner,30,Male,"Teleportation, agility, prehensile tail","Physical appearance, religious beliefs",X-Men
+16,Marvel,Deadpool,Wade Wilson,Ageless,Male,"Regenerative healing factor, expert marksman, fourth wall awareness","Mental instability, mercenary lifestyle",X-Force
+17,Marvel,Black Panther,T'Challa,35,Male,"Enhanced strength, agility, vibranium suit","Responsibility to Wakanda, struggles with tradition vs. progress",Avengers
+18,Marvel,Doctor Strange,Stephen Strange,45,Male,"Mystic arts, time manipulation, astral projection","Arrogance, self-doubt, past mistakes",Avengers
+19,Marvel,Ant-Man,Scott Lang,35,Male,"Size manipulation, genius-level intellect, insect communication","Struggles with family responsibilities, past as a criminal",Avengers
+20,Marvel,Wasp,Hope van Dyne,30,Female,"Size manipulation, wings, energy blasts","Guilt over past mistakes, family dynamics",Avengers
+21,Marvel,Vision,Vision,Ageless,Male,"Synthetic body, superhuman strength, density manipulation","Struggles with humanity, identity crisis",Avengers
+22,Marvel,Daredevil,Matt Murdock,35,Male,"Enhanced senses, martial arts expertise, radar sense","Guilt over past failures, identity crisis",Defenders
+23,Marvel,Luke Cage,Carl Lucas,40,Male,"Superhuman strength, invulnerability, unbreakable skin","Struggles with past, responsibility to community",Defenders
+24,Marvel,Jessica Jones,Jessica Jones,35,Female,"Superhuman strength, flight, investigative skills","PTSD, struggles with past trauma",Defenders
+25,Marvel,Iron Fist,Danny Rand,35,Male,"Martial arts mastery, chi manipulation, Iron Fist","Struggles with identity, duty as the Immortal Iron Fist",Defenders
+26,Marvel,Punisher,Frank Castle,40,Male,"Expert marksman, hand-to-hand combatant, military training","Guilt over familys death, pursuit of justice through extreme methods",None
+27,Marvel,Ghost Rider,Johnny Blaze,Ageless,Male,"Flaming skull, superhuman strength, hellfire manipulation","Curse of the Ghost Rider, struggle with demonic side",Midnight Sons
+28,Marvel,Silver Surfer,Norrin Radd,Ageless,Male,"Cosmic power, superhuman strength, energy manipulation","Loss of humanity, servitude to Galactus",None
+29,Marvel,Hawkeye,Clint Barton,40,Male,"Master archer, expert marksman, combat skills","Normal human vulnerabilities, struggles with past",Avengers
+30,Marvel,Falcon,Sam Wilson,40,Male,"Flight, enhanced strength, expert hand-to-hand combatant","Struggles with past, responsibility to community",Avengers
+31,Marvel,Scarlet Witch,Wanda Maximoff,35,Female,"Reality manipulation, chaos magic, telekinesis","Struggles with control, guilt over past actions",Avengers
+32,Marvel,Quicksilver,Pietro Maximoff,35,Male,"Superhuman speed, agility, reflexes","Impulsiveness, rivalry with Magneto",Avengers
+33,Marvel,Ms. Marvel,Carol Danvers,35,Female,"Superhuman strength, flight, energy manipulation","Struggles with identity, past traumas",Avengers
+34,Marvel,She-Hulk,Jennifer Walters,35,Female,"Superhuman strength, durability, healing factor",Struggles with balancing life as lawyer and hero,Avengers
+35,Marvel,Black Bolt,Blackagar Boltagon,40,Male,"Voice manipulation, superhuman strength, energy blasts","Responsibility to Attilan, speech limitations",Inhumans
+36,Marvel,Medusa,Medusalith Amaquelin,35,Female,"Hair manipulation, superhuman strength, agility","Struggles with leadership, family dynamics",Inhumans
+37,Marvel,Crystal,Crystalia Amaquelin,30,Female,"Elemental manipulation, flight, skilled combatant","Struggles with family dynamics, responsibilities",Inhumans
+38,Marvel,Groot,Groot,Ageless,Male,"Regeneration, superhuman strength, language limitations","Limited communication, sacrifices for friends",Guardians of the Galaxy
+39,Marvel,Rocket Raccoon,Rocket Raccoon,8,Male,"Genius-level intellect, skilled marksman, cybernetic enhancements","Identity struggles, past trauma, size",Guardians of the Galaxy
+40,Marvel,Star-Lord,Peter Quill,35,Male,"Leadership skills, tactical expertise, advanced weaponry","Struggles with responsibility, relationships",Guardians of the Galaxy
+41,Marvel,Gamora,Gamora,35,Female,"Master assassin, expert combatant, enhanced strength and agility","Struggles with past as Thanos's adopted daughter, redemption",Guardians of the Galaxy
+42,Marvel,Drax the Destroyer,Drax,Ageless,Male,"Superhuman strength, durability, expert combatant","Obsession with vengeance, literal thinking",Guardians of the Galaxy
+43,Marvel,Mantis,Mantis,35,Female,"Empathy, skilled combatant, precognition","Struggles with social cues, past traumas",Guardians of the Galaxy
+44,Marvel,Adam Warlock,Adam Warlock,Ageless,Male,"Cosmic powers, energy manipulation, regeneration","Struggles with destiny, conflict with Magus",None
+45,Marvel,Nova,Richard Rider,25,Male,"Energy manipulation, flight, enhanced strength","Struggles with responsibility, balancing life as hero and student",None
+46,Dc,Spider-Man,Peter Parker,18,Male,"Wall-crawling, enhanced strength, spider-sense","Green Goblin, Venom, personal responsibility",Avengers
+47,Dc,Iron Man,Tony Stark,35,Male,"Genius-level intellect, powered armor suit","Alcoholism, arrogance, shrapnel near heart",Avengers
+48,Dc,Captain America,Steve Rogers,100,Male,"Peak human strength, master martial artist",Vulnerability to mental manipulation,Avengers
+49,Dc,Thor,Thor Odinson,Ageless,Male,"Superhuman strength, lightning manipulation, Mjolnir","Arrogance, dependency on Mjolnir",Avengers
+50,Dc,Black Widow,Natasha Romanoff,35,Female,"Expert spy, martial artist, various weapons","Past traumas, guilt",Avengers
+51,Dc,Hulk,Bruce Banner,40,Male,"Superhuman strength, durability, gamma radiation","Rage, control issues",Avengers
+52,Dc,Wolverine,Logan,Ageless,Male,"Regenerative healing factor, adamantium claws, enhanced senses","Memory loss, animalistic nature",X-Men
+53,Dc,Storm,Ororo Munroe,35,Female,"Weather manipulation, flight, leadership skills","Emotional instability, claustrophobia",X-Men
+54,Dc,Professor X,Charles Xavier,65,Male,"Telepathy, genius-level intellect, leadership skills","Paralysis, guilt over failures",X-Men
+55,Dc,Cyclops,Scott Summers,35,Male,"Optic blasts, tactical skills, leadership abilities","Struggles with leadership, emotional detachment",X-Men
+56,Dc,Jean Grey,Jean Grey,35,Female,"Telekinesis, telepathy, Phoenix Force","Struggles with dark side, loss of control",X-Men
+57,Dc,Beast,Hank McCoy,40,Male,"Superhuman strength, agility, genius intellect","Physical appearance, difficulty controlling transformations",X-Men
+58,Dc,Rogue,Anna Marie,30,Female,"Power absorption, flight, superhuman strength","Fear of hurting others, isolation",X-Men
+59,Dc,Gambit,Remy LeBeau,35,Male,"Kinetic energy manipulation, skilled thief, agility","Guilt over past actions, shady past",X-Men
+60,Dc,Nightcrawler,Kurt Wagner,30,Male,"Teleportation, agility, prehensile tail","Physical appearance, religious beliefs",X-Men
+61,Dc,Deadpool,Wade Wilson,Ageless,Male,"Regenerative healing factor, expert marksman, fourth wall awareness","Mental instability, mercenary lifestyle",X-Force
+62,Dc,Black Panther,T'Challa,35,Male,"Enhanced strength, agility, vibranium suit","Responsibility to Wakanda, struggles with tradition vs. progress",Avengers
+63,Dc,Doctor Strange,Stephen Strange,45,Male,"Mystic arts, time manipulation, astral projection","Arrogance, self-doubt, past mistakes",Avengers
+64,Dc,Ant-Man,Scott Lang,35,Male,"Size manipulation, genius-level intellect, insect communication","Struggles with family responsibilities, past as a criminal",Avengers
+65,Dc,Wasp,Hope van Dyne,30,Female,"Size manipulation, wings, energy blasts","Guilt over past mistakes, family dynamics",Avengers
+66,Dc,Vision,Vision,Ageless,Male,"Synthetic body, superhuman strength, density manipulation","Struggles with humanity, identity crisis",Avengers
+67,Dc,Daredevil,Matt Murdock,35,Male,"Enhanced senses, martial arts expertise, radar sense","Guilt over past failures, identity crisis",Defenders
+68,Dc,Luke Cage,Carl Lucas,40,Male,"Superhuman strength, invulnerability, unbreakable skin","Struggles with past, responsibility to community",Defenders
+69,Dc,Jessica Jones,Jessica Jones,35,Female,"Superhuman strength, flight, investigative skills","PTSD, struggles with past trauma",Defenders
+70,Dc,Iron Fist,Danny Rand,35,Male,"Martial arts mastery, chi manipulation, Iron Fist","Struggles with identity, duty as the Immortal Iron Fist",Defenders
+71,Dc,Punisher,Frank Castle,40,Male,"Expert marksman, hand-to-hand combatant, military training","Guilt over familys death, pursuit of justice through extreme methods",None
+72,Dc,Ghost Rider,Johnny Blaze,Ageless,Male,"Flaming skull, superhuman strength, hellfire manipulation","Curse of the Ghost Rider, struggle with demonic side",Midnight Sons
+73,Dc,Silver Surfer,Norrin Radd,Ageless,Male,"Cosmic power, superhuman strength, energy manipulation","Loss of humanity, servitude to Galactus",None
+74,Dc,Hawkeye,Clint Barton,40,Male,"Master archer, expert marksman, combat skills","Normal human vulnerabilities, struggles with past",Avengers
+75,Dc,Falcon,Sam Wilson,40,Male,"Flight, enhanced strength, expert hand-to-hand combatant","Struggles with past, responsibility to community",Avengers
+76,Dc,Scarlet Witch,Wanda Maximoff,35,Female,"Reality manipulation, chaos magic, telekinesis","Struggles with control, guilt over past actions",Avengers
+77,Dc,Quicksilver,Pietro Maximoff,35,Male,"Superhuman speed, agility, reflexes","Impulsiveness, rivalry with Magneto",Avengers
+78,Dc,Ms. Marvel,Carol Danvers,35,Female,"Superhuman strength, flight, energy manipulation","Struggles with identity, past traumas",Avengers
+79,Dc,She-Hulk,Jennifer Walters,35,Female,"Superhuman strength, durability, healing factor",Struggles with balancing life as lawyer and hero,Avengers
+80,Dc,Black Bolt,Blackagar Boltagon,40,Male,"Voice manipulation, superhuman strength, energy blasts","Responsibility to Attilan, speech limitations",Inhumans
+81,Dc,Medusa,Medusalith Amaquelin,35,Female,"Hair manipulation, superhuman strength, agility","Struggles with leadership, family dynamics",Inhumans
+82,Dc,Crystal,Crystalia Amaquelin,30,Female,"Elemental manipulation, flight, skilled combatant","Struggles with family dynamics, responsibilities",Inhumans
+83,Dc,Groot,Groot,Ageless,Male,"Regeneration, superhuman strength, language limitations","Limited communication, sacrifices for friends",Guardians of the Galaxy
+84,Dc,Rocket Raccoon,Rocket Raccoon,8,Male,"Genius-level intellect, skilled marksman, cybernetic enhancements","Identity struggles, past trauma, size",Guardians of the Galaxy
+85,Dc,Star-Lord,Peter Quill,35,Male,"Leadership skills, tactical expertise, advanced weaponry","Struggles with responsibility, relationships",Guardians of the Galaxy
+86,Dc,Gamora,Gamora,35,Female,"Master assassin, expert combatant, enhanced strength and agility","Struggles with past as Thanos's adopted daughter, redemption",Guardians of the Galaxy
+87,Dc,Drax the Destroyer,Drax,Ageless,Male,"Superhuman strength, durability, expert combatant","Obsession with vengeance, literal thinking",Guardians of the Galaxy
+88,Dc,Mantis,Mantis,35,Female,"Empathy, skilled combatant, precognition","Struggles with social cues, past traumas",Guardians of the Galaxy
+89,Dc,Adam Warlock,Adam Warlock,Ageless,Male,"Cosmic powers, energy manipulation, regeneration","Struggles with destiny, conflict with Magus",None
+90,Dc,Nova,Richard Rider,25,Male,"Energy manipulation, flight, enhanced strength","Struggles with responsibility, balancing life as hero and student",None
+91,Marvel,Spider-Man,Peter Parker,18,Male,"Wall-crawling, enhanced strength, spider-sense","Green Goblin, Venom, personal responsibility",Avengers
+92,Marvel,Iron Man,Tony Stark,35,Male,"Genius-level intellect, powered armor suit","Alcoholism, arrogance, shrapnel near heart",Avengers
+93,Marvel,Captain America,Steve Rogers,100,Male,"Peak human strength, master martial artist",Vulnerability to mental manipulation,Avengers
+94,Marvel,Thor,Thor Odinson,Ageless,Male,"Superhuman strength, lightning manipulation, Mjolnir","Arrogance, dependency on Mjolnir",Avengers
+95,Marvel,Black Widow,Natasha Romanoff,35,Female,"Expert spy, martial artist, various weapons","Past traumas, guilt",Avengers
+96,Marvel,Hulk,Bruce Banner,40,Male,"Superhuman strength, durability, gamma radiation","Rage, control issues",Avengers
+97,Marvel,Wolverine,Logan,Ageless,Male,"Regenerative healing factor, adamantium claws, enhanced senses","Memory loss, animalistic nature",X-Men
+98,Marvel,Storm,Ororo Munroe,35,Female,"Weather manipulation, flight, leadership skills","Emotional instability, claustrophobia",X-Men
+99,Marvel,Professor X,Charles Xavier,65,Male,"Telepathy, genius-level intellect, leadership skills","Paralysis, guilt over failures",X-Men
+100,Marvel,Cyclops,Scott Summers,35,Male,"Optic blasts, tactical skills, leadership abilities","Struggles with leadership, emotional detachment",X-Men
+101,Marvel,Jean Grey,Jean Grey,35,Female,"Telekinesis, telepathy, Phoenix Force","Struggles with dark side, loss of control",X-Men
+102,Marvel,Beast,Hank McCoy,40,Male,"Superhuman strength, agility, genius intellect","Physical appearance, difficulty controlling transformations",X-Men
+103,Marvel,Rogue,Anna Marie,30,Female,"Power absorption, flight, superhuman strength","Fear of hurting others, isolation",X-Men
+104,Marvel,Gambit,Remy LeBeau,35,Male,"Kinetic energy manipulation, skilled thief, agility","Guilt over past actions, shady past",X-Men
+105,Marvel,Nightcrawler,Kurt Wagner,30,Male,"Teleportation, agility, prehensile tail","Physical appearance, religious beliefs",X-Men
+106,Marvel,Deadpool,Wade Wilson,Ageless,Male,"Regenerative healing factor, expert marksman, fourth wall awareness","Mental instability, mercenary lifestyle",X-Force
+107,Marvel,Black Panther,T'Challa,35,Male,"Enhanced strength, agility, vibranium suit","Responsibility to Wakanda, struggles with tradition vs. progress",Avengers
+108,Marvel,Doctor Strange,Stephen Strange,45,Male,"Mystic arts, time manipulation, astral projection","Arrogance, self-doubt, past mistakes",Avengers
+109,Marvel,Ant-Man,Scott Lang,35,Male,"Size manipulation, genius-level intellect, insect communication","Struggles with family responsibilities, past as a criminal",Avengers
+110,Marvel,Wasp,Hope van Dyne,30,Female,"Size manipulation, wings, energy blasts","Guilt over past mistakes, family dynamics",Avengers
+111,Marvel,Vision,Vision,Ageless,Male,"Synthetic body, superhuman strength, density manipulation","Struggles with humanity, identity crisis",Avengers
+112,Marvel,Daredevil,Matt Murdock,35,Male,"Enhanced senses, martial arts expertise, radar sense","Guilt over past failures, identity crisis",Defenders
+113,Marvel,Luke Cage,Carl Lucas,40,Male,"Superhuman strength, invulnerability, unbreakable skin","Struggles with past, responsibility to community",Defenders
+114,Marvel,Jessica Jones,Jessica Jones,35,Female,"Superhuman strength, flight, investigative skills","PTSD, struggles with past trauma",Defenders
+115,Marvel,Iron Fist,Danny Rand,35,Male,"Martial arts mastery, chi manipulation, Iron Fist","Struggles with identity, duty as the Immortal Iron Fist",Defenders
+116,Marvel,Punisher,Frank Castle,40,Male,"Expert marksman, hand-to-hand combatant, military training","Guilt over familys death, pursuit of justice through extreme methods",None
+117,Marvel,Ghost Rider,Johnny Blaze,Ageless,Male,"Flaming skull, superhuman strength, hellfire manipulation","Curse of the Ghost Rider, struggle with demonic side",Midnight Sons
+118,Marvel,Silver Surfer,Norrin Radd,Ageless,Male,"Cosmic power, superhuman strength, energy manipulation","Loss of humanity, servitude to Galactus",None
+119,Marvel,Hawkeye,Clint Barton,40,Male,"Master archer, expert marksman, combat skills","Normal human vulnerabilities, struggles with past",Avengers
+120,Marvel,Falcon,Sam Wilson,40,Male,"Flight, enhanced strength, expert hand-to-hand combatant","Struggles with past, responsibility to community",Avengers
+121,Marvel,Scarlet Witch,Wanda Maximoff,35,Female,"Reality manipulation, chaos magic, telekinesis","Struggles with control, guilt over past actions",Avengers
+122,Marvel,Quicksilver,Pietro Maximoff,35,Male,"Superhuman speed, agility, reflexes","Impulsiveness, rivalry with Magneto",Avengers
+123,Marvel,Ms. Marvel,Carol Danvers,35,Female,"Superhuman strength, flight, energy manipulation","Struggles with identity, past traumas",Avengers
+124,Marvel,She-Hulk,Jennifer Walters,35,Female,"Superhuman strength, durability, healing factor",Struggles with balancing life as lawyer and hero,Avengers
+125,Marvel,Black Bolt,Blackagar Boltagon,40,Male,"Voice manipulation, superhuman strength, energy blasts","Responsibility to Attilan, speech limitations",Inhumans
+126,Marvel,Medusa,Medusalith Amaquelin,35,Female,"Hair manipulation, superhuman strength, agility","Struggles with leadership, family dynamics",Inhumans
+127,Marvel,Crystal,Crystalia Amaquelin,30,Female,"Elemental manipulation, flight, skilled combatant","Struggles with family dynamics, responsibilities",Inhumans
+128,Marvel,Groot,Groot,Ageless,Male,"Regeneration, superhuman strength, language limitations","Limited communication, sacrifices for friends",Guardians of the Galaxy
+129,Marvel,Rocket Raccoon,Rocket Raccoon,8,Male,"Genius-level intellect, skilled marksman, cybernetic enhancements","Identity struggles, past trauma, size",Guardians of the Galaxy
+130,Marvel,Star-Lord,Peter Quill,35,Male,"Leadership skills, tactical expertise, advanced weaponry","Struggles with responsibility, relationships",Guardians of the Galaxy
+131,Marvel,Gamora,Gamora,35,Female,"Master assassin, expert combatant, enhanced strength and agility","Struggles with past as Thanos's adopted daughter, redemption",Guardians of the Galaxy
+132,Marvel,Drax the Destroyer,Drax,Ageless,Male,"Superhuman strength, durability, expert combatant","Obsession with vengeance, literal thinking",Guardians of the Galaxy
+133,Marvel,Mantis,Mantis,35,Female,"Empathy, skilled combatant, precognition","Struggles with social cues, past traumas",Guardians of the Galaxy
+134,Marvel,Adam Warlock,Adam Warlock,Ageless,Male,"Cosmic powers, energy manipulation, regeneration","Struggles with destiny, conflict with Magus",None
+135,Marvel,Nova,Richard Rider,25,Male,"Energy manipulation, flight, enhanced strength","Struggles with responsibility, balancing life as hero and student",None
+136,Dc,Superman,Clark Kent,35,Male,"Superhuman strength, speed, flight, heat vision","Kryptonite, magic",Justice League
+137,Dc,Batman,Bruce Wayne,40,Male,"Genius-level intellect, martial arts mastery, detective skills","No superpowers, trauma",Justice League
+138,Dc,Wonder Woman,Diana Prince,5000,Female,"Superhuman strength, speed, agility, flight, Lasso of Truth","Vulnerability to piercing weapons, magic",Justice League
+139,Dc,The Flash,Barry Allen,30,Male,"Superhuman speed, time manipulation","Time paradoxes, Speed Force instability",Justice League
+140,Dc,Green Lantern,Hal Jordan,35,Male,"Power ring constructs, flight, energy manipulation","Vulnerability to fear, ring's charge limitations",Justice League
+141,Dc,Aquaman,Arthur Curry,35,Male,"Superhuman strength, speed, underwater adaptation, telepathic control over marine life","Vulnerability to dehydration, magic",Justice League
+142,Dc,Cyborg,Victor Stone,25,Male,"Cybernetic enhancements, superhuman strength, technopathy","Struggles with humanity, cybernetic vulnerabilities",Justice League
+143,Dc,Shazam,Billy Batson,15,Male,Transformation into superhuman adult with various abilities,"Limited control over powers, vulnerability to magic",Justice League
+144,Dc,Green Arrow,Oliver Queen,35,Male,"Master archer, skilled martial artist, trick arrows","No superpowers, mortality",Justice League
+145,Dc,Martian Manhunter,J'onn J'onzz,3000,Male,"Superhuman strength, shapeshifting, telepathy, intangibility, flight","Vulnerability to fire, mental instability",Justice League
+146,Dc,Black Canary,Dinah Lance,30,Female,"Expert martial artist, supersonic Canary Cry","No superpowers, mortality",Justice League
+147,Dc,Hawkman,Carter Hall,4000,Male,"Reincarnated warrior, flight, enhanced strength, weapons mastery","Reincarnation cycle, vulnerability to Nth metal",Justice League
+148,Dc,Hawkgirl,Shiera Hall,4000,Female,"Reincarnated warrior, flight, enhanced strength, weapons mastery","Reincarnation cycle, vulnerability to Nth metal",Justice League
+149,Dc,Zatanna,Zatanna Zatara,30,Female,"Magic spells, incantations, skilled magician","Dependency on spoken magic, vulnerability to certain spells",Justice League
+150,Dc,Doctor Fate,Kent Nelson,50,Male,"Magic spells, flight, precognition","Dependency on Helmet of Fate, vulnerability to chaos magic",Justice League
+151,Dc,Batgirl,Barbara Gordon,25,Female,"Skilled martial artist, detective skills, technology expertise","No superpowers, mortality",Bat Family
+152,Dc,Nightwing,Dick Grayson,30,Male,"Acrobatics, martial arts mastery, detective skills","No superpowers, mortality",Bat Family
+153,Dc,Robin,Damian Wayne,15,Male,"Acrobatics, martial arts mastery, detective skills","No superpowers, mortality",Bat Family
+154,Dc,Supergirl,Kara Zor-El,25,Female,"Superhuman strength, speed, flight, heat vision","Vulnerability to kryptonite, magic",Justice League
+155,Dc,Red Hood,Jason Todd,25,Male,"Skilled marksman, hand-to-hand combatant, technology expertise","No superpowers, mortality, trauma",Bat Family
+156,Dc,Green Lantern (John Stewart),John Stewart,35,Male,"Power ring constructs, flight, energy manipulation","Vulnerability to fear, ring's charge limitations",Justice League
+157,Dc,Green Lantern (Kyle Rayner),Kyle Rayner,30,Male,"Power ring constructs, flight, energy manipulation","Vulnerability to fear, ring's charge limitations",Justice League
+158,Dc,Green Lantern (Jessica Cruz),Jessica Cruz,25,Female,"Power ring constructs, flight, energy manipulation","Vulnerability to fear, ring's charge limitations",Justice League
+159,Dc,Booster Gold,Michael Jon Carter,35,Male,"Flight, energy blasts, force field projection","Narcissism, irresponsibility",Justice League
+160,Dc,Blue Beetle,Jaime Reyes,20,Male,"Scarab-derived armor, flight, energy blasts","Struggles with controlling the scarab, vulnerability to mental influence",Justice League
+161,Dc,Huntress,Helena Bertinelli,30,Female,"Expert markswoman, martial artist, crossbow proficiency","No superpowers, mortality, vigilante ethics",Bat Family
+162,Dc,Swamp Thing,Alec Holland,Ageless,Male,"Plant manipulation, elemental control, superhuman strength","Vulnerability to fire, limited mobility outside of plant life",Justice League Dark
+163,Dc,Constantine,John Constantine,45,Male,"Expert sorcerer, occult knowledge, manipulation","Cynicism, moral ambiguity, demonic debts",Justice League Dark
+164,Dc,Zatara,Giovanni Zatara,60,Male,"Magic spells, incantations, skilled magician","Dependency on spoken magic, vulnerability to certain spells",Justice League Dark
+165,Dc,Deadman,Boston Brand,Ageless,Male,"Invisibility, possession, acrobatics","Guilt over past, inability to interact with physical world",Justice League Dark
+166,Dc,Cyborg Superman,Hank Henshaw,Ageless,Male,"Cybernetic enhancements, superhuman strength, technopathy","Struggles with humanity, cybernetic vulnerabilities",None
+167,Dc,Firestorm,Ronnie Raymond/Martin Stein,25,Male,"Transmutation, energy manipulation, flight","Dependency on fusion, mental conflicts",Justice League
+168,Dc,Black Lightning,Jefferson Pierce,40,Male,"Electrokinesis, flight, expert martial artist","Responsibility to community, family dynamics",Justice League
+169,Dc,Atom,Ray Palmer,40,Male,"Size manipulation, genius-level intellect, hand-to-hand combat","Struggles with personal relationships, size limitations",Justice League
+170,Dc,Plastic Man,"Patrick ""Eel"" O'Brian",40,Male,"Elasticity, shapeshifting, durability","Lack of seriousness, goofy personality",Justice League
+171,Dc,Vixen,Mari Jiwe McCabe,30,Female,"Animal mimicry, enhanced strength, speed, agility",Struggles with balancing her personal life and hero duties,Justice League
+172,Dc,The Atom (Ryan Choi),Ryan Choi,30,Male,"Size manipulation, genius-level intellect, hand-to-hand combat","Struggles with personal relationships, size limitations",Justice League
+173,Dc,Metamorpho,Rex Mason,30,Male,"Elemental transmutation, shapeshifting, superhuman strength","Physical appearance, emotional instability",Justice League
+174,Dc,Hawk,Hank Hall,35,Male,"Enhanced strength, combat skills","Struggles with aggression, violent tendencies",Justice League
+175,Dc,Dove,Don Hall,Ageless,Male,"Flight, energy blasts","Struggles with confidence, violent tendencies",Justice League
+176,Dc,Hawk and Dove,Holly Granger,25,Female,"Enhanced strength, combat skills","Struggles with aggression, violent tendencies",Justice League
+177,Dc,John Constantine,John Constantine,45,Male,"Expert sorcerer, occult knowledge, manipulation","Cynicism, moral ambiguity, demonic debts",Justice League Dark
+178,Dc,Swamp Thing,Alec Holland,Ageless,Male,"Plant manipulation, elemental control, superhuman strength","Vulnerability to fire, limited mobility outside of plant life",Justice League Dark
+179,Dc,Raven,Raven Roth,Ageless,Female,"Empathy, telekinesis, dark magic","Struggles with inner darkness, father's influence",Teen Titans
+180,Dc,Beast Boy,Garfield Logan,20,Male,"Shapeshifting into animals, enhanced agility","Struggles with identity, past traumas",Teen Titans
+181,Dc,Starfire,Koriand'r,Ageless,Female,"Flight, energy projection, superhuman strength","Struggles with cultural assimilation, past traumas",Teen Titans
+182,Dc,Cyborg,Victor Stone,25,Male,"Cybernetic enhancements, superhuman strength, technopathy","Struggles with humanity, cybernetic vulnerabilities",Teen Titans
+183,Dc,Nightwing,Dick Grayson,30,Male,"Acrobatics, martial arts mastery, detective skills","No superpowers, mortality",Teen Titans
+184,Dc,Red Hood,Jason Todd,25,Male,"Skilled marksman, hand-to-hand combatant, technology expertise","No superpowers, mortality, trauma",None
+185,Dc,Donna Troy,Donna Troy,Ageless,Female,"Superhuman strength, flight, combat skills","Struggles with identity, past traumas",Teen Titans
+186,Dc,Aqualad,Kaldur'ahm,20,Male,"Underwater adaptation, hydrokinetic powers","Struggles with loyalty, betrayal",Young Justice
+187,Dc,Artemis,Artemis Crock,20,Female,"Expert archer, combat skills","Struggles with trust, redemption",Young Justice
+188,Dc,Kid Flash,Wally West,20,Male,"Superhuman speed, agility","Impulsiveness, struggles with legacy",Young Justice
+189,Dc,Miss Martian,M'gann M'orzz,20,Female,"Telepathy, shape-shifting, flight","Struggles with identity, past traumas",Young Justice
+190,Dc,Superboy,Conner Kent,20,Male,"Superhuman strength, speed, durability","Struggles with identity, past traumas",Young Justice
+191,Dc,Blue Beetle,Jaime Reyes,20,Male,"Scarab-derived armor, flight, energy blasts","Struggles with controlling the scarab, vulnerability to mental influence",Young Justice
+192,Dc,Static,Virgil Hawkins,18,Male,"Electrokinesis, flight, electromagnetic manipulation","Struggles with responsibility, adolescence",Young Justice
+193,Dc,Robin,Tim Drake,20,Male,"Acrobatics, martial arts mastery, detective skills","No superpowers, mortality",Young Justice
